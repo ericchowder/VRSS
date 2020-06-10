@@ -19,4 +19,4 @@ Only important files were pushed to Github. This includes source files and execu
 ![VRSS_Sample_img](https://github.com/ericchowder/VRSS/blob/master/VRSS_Unity_img.PNG?raw=true)
 
 ## Disclaimer
-This project is was conceptualized in 2016 and was completed in 2018. Due to the reliance on custom gloves (that were evenutally bought out by Adel and Monica, the electrical engineers in this project), the project has not been maintained. 
+This project is was conceptualized in 2016 and was completed in 2018. Due to the reliance on custom gloves (that were evenutally bought out by Adel and Monica, the electrical engineers in this project), the project has not been maintained. "VR App Test 1" is also missing shaders due to file length being too long to pushed via Git.
