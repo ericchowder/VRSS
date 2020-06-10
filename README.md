@@ -14,3 +14,6 @@ Please refer to the final report for more details on hardware and software speci
 Only important files were pushed to Github. This includes source files and executables along with their dependencies required to run the application.
 
 "VR App Test 1" was a prototype environment used to test out the VR functionality with the hardware infrastructure in place. This included the custom VR gloves along with Android display of the VR environment. The main VR environment was then developed within "VR App Test" (with no '1', yes horrible naming please forgive me) where the main VRSS VR environment was developed.
+
+## Sample Images
+![VRSS_Sample_img](https://github.com/ericchowder/VRSS/blob/master/VRSS_Unity_img.PNG?raw=true)
